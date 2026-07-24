@@ -96,7 +96,7 @@ git init > git status > git add > git commit > git push
 - git init : Git 프로젝트 시작 
 - git status : 현재 상태 확인 
 - git add : Commit할 파일 선택 
-- git commnit : 버전 생성 
+- git commit : 버전 생성 
 - git push : GitHub 업로드 
 
 ---
