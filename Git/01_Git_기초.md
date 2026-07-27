@@ -60,7 +60,7 @@ README.md 파일 생성
 ## Git Add 
 git add README.md 
 - Commit에 포함할 파일 선택 
-- 실무에서는 git add . 을 더 많이 사용하는데, 이는 여러 개의 파일이 이 생기기 때문임 
+- 실무에서는 git add . 을 더 많이 사용하는데, 이는 여러 개의 파일이 생기기 때문임 
 
 ---
 
